@@ -25,7 +25,7 @@ for _ in range(t):
         print("NO")
     else:
         print("YES")
-        # either assign A[0] or B[0]
+        # either assign x or y
         for i in range(1, n):
             if A[i] == x:
                 print(i + 1, y + 1)
