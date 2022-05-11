@@ -30,6 +30,10 @@
 
 - [1672c](./1672c.py) -->
 
+### 1200
+
+- [1433d](1433d.md)
+
 ## License
 
 [CC BY-NC-ND 4.0](./LICENSE.txt)
