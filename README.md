@@ -8,6 +8,51 @@
 
 我们的 slogan 是： **只有熟练掌握基础的数据结构与算法，才能对复杂问题迎刃有余。**
 
+建议大家先学习基础的数据结构与算法，然后从简单到困难的顺序刷题。
+
+## 前置知识
+
+- 这里有一张互联网公司面试中经常考察的问题类型总结的思维导图，我们可以结合图片中的信息分析一下。
+
+![leetcode-zhihu](https://tva1.sinaimg.cn/large/007S8ZIlly1ghluennxvrj30k00jx0te.jpg)
+
+（图片来自 leetcode)
+
+其中算法，主要是以下几种：
+
+- 基础技巧：分治、二分、贪心
+- 排序算法：快速排序、归并排序、计数排序
+- 搜索算法：回溯、递归、深度优先遍历，广度优先遍历，二叉搜索树等
+- 图论：最短路径、最小生成树
+- 动态规划：背包问题、最长子序列
+
+数据结构，主要有如下几种：
+
+- 数组与链表：单 / 双向链表
+- 栈与队列
+- 哈希表
+- 堆：最大堆 ／ 最小堆
+- 树与图：最近公共祖先、并查集
+- 字符串：前缀树（字典树） ／ 后缀树
+
+## 基础数据结构与算法学习
+
+- [西法的刷题秘籍](https://github.com/azl397985856/leetcode)
+
+> [在线阅读地址](https://leetcode-solution-leetcode-pp.gitbook.io/leetcode-solution/)
+
+## 如何刷 codeforces
+
+TODO
+
+## :computer: 插件
+
+或许是一个可以改变你刷题效率的浏览器扩展插件。
+
+插件地址：<https://chrome.google.com/webstore/detail/leetcode-cheatsheet/fniccleejlofifaakbgppmbbcdfjonle?hl=en-US>。
+
+> 不能访问谷歌商店的朋友可以去我的公众号回复插件获取离线版。强烈推荐大家使用谷歌商店安装， 这样如果有更新可以自动安装，毕竟咱们的插件更新还是蛮快的。
+
 ## codeforces 经典题目解析
 
 你可以将其看成是学习路线，也可以看成是经典题目。
