@@ -47,11 +47,7 @@ TODO
 
 ## :computer: 插件
 
-或许是一个可以改变你刷题效率的浏览器扩展插件。
-
-插件地址：<https://chrome.google.com/webstore/detail/leetcode-cheatsheet/fniccleejlofifaakbgppmbbcdfjonle?hl=en-US>。
-
-> 不能访问谷歌商店的朋友可以去我的公众号回复插件获取离线版。强烈推荐大家使用谷歌商店安装， 这样如果有更新可以自动安装，毕竟咱们的插件更新还是蛮快的。
+TODO
 
 ## codeforces 经典题目解析
 
