@@ -57,11 +57,11 @@ TODO
 
 ### 800 分合集
 
-- [266b](./problems/266b.md)
+- [B. Queue at the School](./problems/266b.md)
 
 ### 900 分合集
 
-- [1335b](./problems/1335b.md)
+- [B. Construct the String](./problems/1335b.md)
 
 <!-- ### 1000
 
@@ -73,11 +73,11 @@ TODO
 
 ### 1200 分合集
 
-- [1433d](./problems/1433d.md)
+- [D. Districts Connection](./problems/1433d.md)
 
 ### 1300 分合集
 
-- [1555c](./problems/1555c.py)
+- [C. Coin Rows](./problems/1555c.md)
 
 ## License
 
