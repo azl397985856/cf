@@ -79,6 +79,14 @@ TODO
 
 - [C. Coin Rows](./problems/1555c.md)
 
+### 1400 分合集
+
+- [C. Team](./problems/0401c.md)
+
+### 1700 分合集
+
+- [F. Spy-string](./problems/1360f.md)
+
 ## License
 
 [CC BY-NC-ND 4.0](./LICENSE.txt)
