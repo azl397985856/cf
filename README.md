@@ -43,11 +43,37 @@
 
 ## 如何刷 codeforces
 
-TODO
+**一定不要死磕一看就能写出来的题目，也不要死磕看了十分钟也没有思路的题目。**
+
+进入 problemset， 选择自己想刷的题目即可。比如我想刷搜索题目，就可以标签中进行过了，同时建议大家选择难度范围。新手建议 1700 分以下练习。等到熟练之后可以挑战一下 1800 - 2500 分数段。
+
+同一个分值的题目难度差距也可能很大，因此大家同时结合通过人数来排序。
+
+![](https://tva1.sinaimg.cn/large/e6c9d24ely1h29iefhyg5j21he0nogr0.jpg)
+
+这样可以更容易找到难度合适的题目。
+
+![](https://tva1.sinaimg.cn/large/e6c9d24ely1h29i3w7m3mj20fu09ejrq.jpg)
+
+大家从这个[链接](https://codeforces.com/problemset?order=BY_SOLVED_DESC&tags=constructive+algorithms%2C2000-2000 "cf 筛选")进去就可以看到我选择的过滤标签了。
+
+等到大家熟悉了节奏，推荐大家按照比赛的方式做题。即将一次 contest 的题目整个做一遍。cf 中是按照编号进行组织的。
+
+比如 101a 就是 101 比赛的第一道题。 101c 就是 101 比赛的第三道题，以此类推。
+
+做完一道题建议大家看一下题解，入口是这里的 tutorial。
+
+![](https://tva1.sinaimg.cn/large/e6c9d24ely1h29i75fzdcj20n61csaep.jpg)
 
 ## :computer: 插件
 
-TODO
+如果你想看其他搜索人的代码，则可以进入 status 查看。所有人的答案都在这里，你可以根据多个维度进行排序，比如按照代码长短排序。
+
+大家可以使用[codeforces-solutions 插件](https://chrome.google.com/webstore/detail/codeforces-solutions/eiogioiioffnoogeciigdmckkjomcocl?hl=ja)快速进入当前题目的 status 界面。
+
+![](https://tva1.sinaimg.cn/large/e6c9d24ely1h29i9yv19wj210v0u0n7k.jpg)
+
+还有很多其他的 cf 插件大家可以体验一下。比如 [Codeforces Enhancer](https://chrome.google.com/webstore/detail/codeforces-enhancer/ocmandagmgmkcplckgnfgaokpgkfenmp)
 
 ## codeforces 经典题目解析
 
