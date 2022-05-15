@@ -45,15 +45,15 @@
 
 **一定不要死磕一看就能写出来的题目，也不要死磕看了十分钟也没有思路的题目。**
 
-进入 problemset， 选择自己想刷的题目即可。比如我想刷搜索题目，就可以标签中进行过了，同时建议大家选择难度范围。新手建议 1700 分以下练习。等到熟练之后可以挑战一下 1800 - 2500 分数段。
+进入 problemset， 选择自己想刷的题目即可。比如我想刷搜索题目，就可以标签中进行过滤，同时建议大家选择难度范围。新手建议 1700 分以下练习。等到熟练之后可以挑战一下 1800 - 2500 分数段。
 
 同一个分值的题目难度差距也可能很大，因此大家同时结合通过人数来排序。
+
+![](https://tva1.sinaimg.cn/large/e6c9d24ely1h29i3w7m3mj20fu09ejrq.jpg)
 
 ![](https://tva1.sinaimg.cn/large/e6c9d24ely1h29iefhyg5j21he0nogr0.jpg)
 
 这样可以更容易找到难度合适的题目。
-
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h29i3w7m3mj20fu09ejrq.jpg)
 
 大家从这个[链接](https://codeforces.com/problemset?order=BY_SOLVED_DESC&tags=constructive+algorithms%2C2000-2000 "cf 筛选")进去就可以看到我选择的过滤标签了。
 
