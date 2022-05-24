@@ -75,6 +75,8 @@
 
 还有很多其他的 cf 插件大家可以体验一下。比如 [Codeforces Enhancer](https://chrome.google.com/webstore/detail/codeforces-enhancer/ocmandagmgmkcplckgnfgaokpgkfenmp)
 
+另外大家也可以使用 zerotrac 开发的用于计算力扣中题目分数的网站。这里的分数指的是竞赛分，大家可以根据自己的竞赛分选择稍微比自己竞赛分高一点的题目进行练习，注意这个只是根据通过人数等计算的一个预估分数。地址：https://zerotrac.github.io/leetcode_problem_rating/
+
 ## codeforces 经典题目解析
 
 你可以将其看成是学习路线，也可以看成是经典题目。
