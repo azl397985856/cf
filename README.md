@@ -1,8 +1,8 @@
 # Codeforces
 
-[![Travis](https://img.shields.io/badge/language-C++-green.svg)]() [![Travis](https://img.shields.io/badge/language-Python-red.svg)]() [![Travis](https://img.shields.io/badge/language-Java-blue.svg)]() [![Travis](https://img.shields.io/badge/language-Go-red.svg)]() [![Travis](https://img.shields.io/badge/language-Php-pink.svg)]() [![Travis](https://img.shields.io/badge/language-JavaScript-yellow.svg)]()
+[![Travis](https://p.ipic.vip/o3azht.jpg)]() [![Travis](https://p.ipic.vip/jf4jge.jpg)]() [![Travis](https://p.ipic.vip/owmlpe.jpg)]() [![Travis](https://p.ipic.vip/tqs7lr.jpg)]() [![Travis](https://p.ipic.vip/tdcv1m.jpg)]() [![Travis](https://p.ipic.vip/g4v4zf.jpg)]()
 
-[![](https://img.shields.io/badge/WeChat-微信群-brightgreen)](#哪里能找到我) [![](https://img.shields.io/badge/公众号-力扣加加-blueviolet)](#哪里能找到我) [![](https://img.shields.io/badge/Juejin-掘金-blue)](https://juejin.im/user/58af98305c497d0067780b3b) [![](https://img.shields.io/badge/Zhihu-知乎-blue)](https://www.zhihu.com/people/lu-xiao-13-70) [![](https://img.shields.io/badge/bilili-哔哩哔哩-ff69b4)](https://space.bilibili.com/519510412/)
+[![](https://img.shields.io/badge/WeChat-微信群-brightgreen)](#哪里能找到我) [![](https://img.shields.io/badge/公众号-力扣加加-blueviolet)](#哪里能找到我) [![](https://img.shields.io/badge/Juejin-掘金-blue)](https://p.ipic.vip/pi37mw.jpg) [![](https://img.shields.io/badge/Zhihu-知乎-blue)](https://p.ipic.vip/sxna9b.jpg) [![](https://img.shields.io/badge/bilili-哔哩哔哩-ff69b4)](https://p.ipic.vip/t4cfcg.jpg)
 
 ---
 
@@ -14,7 +14,7 @@
 
 - 这里有一张互联网公司面试中经常考察的问题类型总结的思维导图，我们可以结合图片中的信息分析一下。
 
-![leetcode-zhihu](https://tva1.sinaimg.cn/large/007S8ZIlly1ghluennxvrj30k00jx0te.jpg)
+![leetcode-zhihu](https://p.ipic.vip/5b28b4.jpg)
 
 （图片来自 leetcode)
 
@@ -49,9 +49,9 @@
 
 同一个分值的题目难度差距也可能很大，因此大家同时结合通过人数来排序。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h29i3w7m3mj20fu09ejrq.jpg)
+![](https://p.ipic.vip/emnjep.jpg)
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h29iefhyg5j21he0nogr0.jpg)
+![](https://p.ipic.vip/jovg3i.jpg)
 
 这样可以更容易找到难度合适的题目。
 
@@ -63,7 +63,7 @@
 
 做完一道题建议大家看一下题解，入口是这里的 tutorial。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h29i75fzdcj20n61csaep.jpg)
+![](https://p.ipic.vip/8ygsol.jpg)
 
 ## :computer: 插件
 
@@ -71,7 +71,7 @@
 
 大家可以使用[codeforces-solutions 插件](https://chrome.google.com/webstore/detail/codeforces-solutions/eiogioiioffnoogeciigdmckkjomcocl?hl=ja)快速进入当前题目的 status 界面。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h29i9yv19wj210v0u0n7k.jpg)
+![](https://p.ipic.vip/titkmq.jpg)
 
 还有很多其他的 cf 插件大家可以体验一下。比如 [Codeforces Enhancer](https://chrome.google.com/webstore/detail/codeforces-enhancer/ocmandagmgmkcplckgnfgaokpgkfenmp)
 
